@@ -5,7 +5,7 @@ Welcome to UFC DATA CRAWLER Documentation
    :maxdepth: 2
    :caption: Contents:
 
-   _architecture/index
+   _architecture
 
 Installation
 ------------
