@@ -1,6 +1,12 @@
 Welcome to UFC DATA CRAWLER Documentation
 ==========================================
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   architecture
+
 Installation
 ------------
 
